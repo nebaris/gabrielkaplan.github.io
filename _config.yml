@@ -12,6 +12,7 @@ description: Sitio personal de Gabriel Kaplan. Programador full time, artista pa
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gabrielkaplan.net" # the base hostname & protocol for your site
 paginate: 5
+future: true
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
