@@ -30,6 +30,5 @@ Paso el rato creando arte y escribiendo.
 ## Redes sociales
 
 [Instagram](https://www.instagram.com/kaplan.gabriel/)  
-[Twitter](https://twitter.com/kaplan_gabriel/)  
 [Facebook](https://www.facebook.com/kaplan.gabriel/)  
 [YouTube](https://www.youtube.com/channel/UCLoY4LY4ahY-P5SPyUIhfQQ)
