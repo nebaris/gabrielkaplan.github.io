@@ -7,15 +7,16 @@ permalink: /sobre-mi/
 ## No...
 
 No soy una persona famosa.  
-No tengo mucho dinero.  
+No soy rico.  
 No vivo viajando.  
 No tengo un título universitario.  
 No tengo un millón de seguidores.  
 No sufrí abuso, ni tuve una vida difícil.
 No bajé 100 kilos.  
 No superé una enfermedad terminal.  
+No creé una startup exitosa.  
 
-Sin embargo hay varias cosas que quiero expresar y este es mi pequeño rinconcito en la web.  
+Pero este es mi pequeño rinconcito en la web... el lugar donde vengo a expresarme.    
 
 ## Si...
 
