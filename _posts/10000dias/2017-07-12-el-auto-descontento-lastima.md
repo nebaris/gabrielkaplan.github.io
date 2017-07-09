@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "¿El auto descontento lastima?"
+title:  "El auto descontento lastima"
 date:   2017-07-12 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
