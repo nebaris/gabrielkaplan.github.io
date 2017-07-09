@@ -1,6 +1,6 @@
-<h2>Pensamientos</h2>
+<h2>10.000 días</h2>
 {% assign rawtags = "" %}
-{% for post in site.categories.Pensamientos  %}
+{% for post in site.categories.10000dias  %}
 	{% assign ttags = post.tags | join:'|' | append:'|' %}
 	{% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
@@ -29,7 +29,7 @@
 {% for tag in tags %}
 	<h3 id="{{ tag | slugify }}">{{ tag }}</h3>
 	<ul>
-	 {% for post in site.categories.Pensamientos %}
+	 {% for post in site.categories.10000dias %}
 		 {% if post.tags contains tag %}
       <li>
         <p>
