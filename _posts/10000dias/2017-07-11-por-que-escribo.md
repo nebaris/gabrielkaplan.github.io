@@ -3,7 +3,7 @@ layout: post
 title:  "¿Por qué escribo?"
 date:   2017-07-11 00:00:00 -03
 category: 10000dias
-tags: [dibujo, pensamientos]
+tags: [pensamientos]
 img: 00002.jpg
 ---
 
