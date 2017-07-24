@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "No molestes al que no lo entienda"
-date:   2017-07-19 00:00:00 -03
+date:   2017-07-20 00:00:00 -03
 category: 10000dias
 tags: [marketing]
 img: 00009.jpg

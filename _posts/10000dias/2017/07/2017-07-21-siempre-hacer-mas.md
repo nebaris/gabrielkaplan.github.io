@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Siempre hacer más"
-date:   2017-07-20 00:00:00 -03
+date:   2017-07-21 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
 img: 00010.jpg
