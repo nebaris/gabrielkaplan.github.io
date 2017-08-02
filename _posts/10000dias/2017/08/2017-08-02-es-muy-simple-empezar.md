@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Es muy simple empezar "
-date:   2017-08-01 00:00:00 -03
+date:   2017-08-02 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
 img: 00017.jpg
