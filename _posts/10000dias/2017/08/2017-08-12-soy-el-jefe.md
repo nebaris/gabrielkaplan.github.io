@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sos tu jefe"
-date:   2017-08-04 00:00:00 -03
+date:   2017-08-12 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
 img: 00020.jpg
