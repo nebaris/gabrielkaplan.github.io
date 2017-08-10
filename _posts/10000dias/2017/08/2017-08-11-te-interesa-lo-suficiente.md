@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Te interesa lo suficiente?"
-date:   2017-08-03 00:00:00 -03
+date:   2017-08-11 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
 img: 00019.jpg
