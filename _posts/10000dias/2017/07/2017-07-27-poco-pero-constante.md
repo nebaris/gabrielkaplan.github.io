@@ -11,8 +11,6 @@ img: 00014.jpg
 	<img src="{{site.baseurl}}/asset/img/00014.jpg" class="img-responsive"/>
 </div>
 
-# Poco pero constante  
-
 Soy una persona que tiene 1.000.000 de ideas distintas, quiero implementarlas todas y al mismo tiempo. Porque todas son geniales, todas pueden funcionar, todas pueden proveer el estilo de vida que estoy buscando.  
 
 El resultado es que ninguna de estas ideas llega a concretarse, y con esto aumenta la ansiedad y el descontento.  

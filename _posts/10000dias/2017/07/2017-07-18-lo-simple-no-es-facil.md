@@ -11,8 +11,6 @@ img: 00007.jpg
 	<img src="{{site.baseurl}}/asset/img/00007.jpg" class="img-responsive"/>
 </div>
 
-# Lo simple no es fácil
-
 En general, la mayoría de las cosas en la vida son bastante simples.  
 
 Para estar saludable es necesario tomar al rededor de 2 litros de agua por día. Simple.  

@@ -11,8 +11,6 @@ img: 00018.jpg
 	<img src="{{site.baseurl}}/asset/img/00018.jpg" class="img-responsive"/>
 </div>
 
-# Pornografía de información
-
 Hay un tiempo para leer e informarte de algo, y luego está el tiempo de hacer y poner en práctica lo leído.  
 Pero es posible que seas como yo y el tiempo de leer se prolongue más de la cuenta.  
 Es imposible aprender algo sólo leyendo.  

@@ -11,8 +11,6 @@ img: 00015.jpg
 	<img src="{{site.baseurl}}/asset/img/00015.jpg" class="img-responsive"/>
 </div>
 
-# Lograr cosas desde la obligación
-
 Es muy difícil hacer que algo funcione cuando se está obligado a hacerlo. La diferencia entre el "Quiero" y "Tengo" es muy grande. El "Tengo que..." le quita toda la diversión a la tarea que se está haciendo y en general nunca termina funcionando.  
 
 Ningún empleado, al que no le guste su trabajo, va a tratar de destacar o ser excelente.  

@@ -11,8 +11,6 @@ img: 00011.jpg
 	<img src="{{site.baseurl}}/asset/img/00011.jpg" class="img-responsive"/>
 </div>
 
-# El bloqueo creativo no existe
-
 Cuando empezás una forma de arte hay un choque entre la habilidad que tenés y lo que te gustaría hacer. El problema es que al principio no sos lo suficientemente bueno como para crear obras que realmente te agraden.  
 
 Durante meses y meses estuve intentando hacer pinturas que realmente me agradaran y lo único que conseguía eran cosas a medias. Es cuando puede aparecer lo que algunos llaman bloqueo creativo, donde directamente dejás de crear.  

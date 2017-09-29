@@ -11,8 +11,6 @@ img: 00013.jpg
 	<img src="{{site.baseurl}}/asset/img/00013.jpg" class="img-responsive"/>
 </div>
 
-# Puede ser conveniente...  
-
 Tengo una voz en la cabeza que me dice cosas que pueden ser convenientes...
 
 - que no soy lo suficientemente bueno

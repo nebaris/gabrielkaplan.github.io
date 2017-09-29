@@ -11,8 +11,6 @@ img: 00002.jpg
 	<img src="{{site.baseurl}}/asset/img/00002.jpg" class="img-responsive"/>
 </div>
 
-# ¿Por qué escribo?
-
 Cuando tuve la idea de subir una pintura durante 10.000 días y agregarle un artículo escrito por mí, mi primer pregunta fue: 
 
 > "¿por qué escribir?"  

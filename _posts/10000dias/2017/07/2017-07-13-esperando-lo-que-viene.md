@@ -11,8 +11,6 @@ img: 00004.jpg
 	<img src="{{site.baseurl}}/asset/img/00004.jpg" class="img-responsive"/>
 </div>
 
-# Esperando lo que viene
-
 ¿Te pasó alguna vez de darte cuenta que estás esperando más lo que viene, que pensando en el momento en que estás?  
 
 Recuerdo que hace como 10 años vivía en ese estado constantemente. Como si mi vida fuera una sucesión de momentos importantes, pero todos estaban por llegar... siempre en el futuro. Sin prestar atención al presente.  

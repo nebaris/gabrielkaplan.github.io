@@ -11,8 +11,6 @@ img: 00012.jpg
 	<img src="{{site.baseurl}}/asset/img/00012.jpg" class="img-responsive"/>
 </div>
 
-# Apenas unos minutos
-
 En los días en que todo es un maremoto, en que parece estar todo fuera de control... sólo necesito unos minutos.  
 
 En unos minutos es posible llegar a una conclusión, recordar lo que realmente quiero, estar agradecido por lo que tengo, ordenar los pensamientos, encontrar una respuesta.  

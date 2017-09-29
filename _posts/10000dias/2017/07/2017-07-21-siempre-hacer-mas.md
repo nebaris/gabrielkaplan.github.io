@@ -11,8 +11,6 @@ img: 00010.jpg
 	<img src="{{site.baseurl}}/asset/img/00010.jpg" class="img-responsive"/>
 </div>
 
-# Siempre hacer más
-
 Uno de los desafíos con los que sigo luchando es el choque entre hacer progresos y estar contento.  
 
 La principal causa por la que empiezo a trabajar en cambiar un hábito o situación, es por descontento. El problema es que es bastante difícil definir el punto en que lo logrado es más que aceptable.  

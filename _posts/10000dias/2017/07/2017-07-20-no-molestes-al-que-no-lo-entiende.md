@@ -11,8 +11,6 @@ img: 00009.jpg
 	<img src="{{site.baseurl}}/asset/img/00009.jpg" class="img-responsive"/>
 </div>
 
-# No molestes al que no lo entienda
-
 Entre el 2013 y el 2015 tuve un emprendimiento de enseñanza de programación.  
 Cuando empecé a ejecutar la idea, me di cuenta que mucha gente no la entendía. Tanto lo que quería hacer, como el modelo de negocio.  
 Por otro lado, otros entendieron mi propuesta y pude venderles mis servicios.   

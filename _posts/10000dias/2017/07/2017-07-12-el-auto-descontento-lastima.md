@@ -11,8 +11,6 @@ img: 00003.jpg
 	<img src="{{site.baseurl}}/asset/img/00003.jpg" class="img-responsive"/>
 </div>
 
-# El auto descontento lastima
-
 Con el tiempo fui notando que hay una característica bastante común que tenemos la gran mayoría de las personas: el auto descontento.  
 Es algo que me pasó durante mucho tiempo y que de vez en cuando vuelve (por suerte en mucha menor medida).  
 

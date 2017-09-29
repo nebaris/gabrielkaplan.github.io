@@ -11,8 +11,6 @@ img: 00005.jpg
 	<img src="{{site.baseurl}}/asset/img/00005.jpg" class="img-responsive"/>
 </div>
 
-# No compartas citas motivacionales
-
 Si das unas vueltas por internet, es imposible que pases mucho tiempo sin toparte con las nunca bien ponderadas citas motivacionales. Una imagen aleatoria, un texto con una fuente elegida al azar y una firma o dirección web. Marketing viral en su máxima expresión. Cero esfuerzo, cero originalidad.  
 
 Las citas motivacionales son malas. Primero y principal, porque las frases están fuera de contexto. Todo consejo sin contexto carece de sentido.  

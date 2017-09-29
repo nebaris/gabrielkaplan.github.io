@@ -11,8 +11,6 @@ img: 00008.jpg
 	<img src="{{site.baseurl}}/asset/img/00008.jpg" class="img-responsive"/>
 </div>
 
-# Los días negros
-
 Hay días en que no se por dónde comenzar. Siento que me quedé sin ideas. No tengo nada que decir, escribir, dibujar, etc. Es como que perdiera toda la inspiración en un abrir y cerrar de ojos.    
 
 Es ahí, cuando aumenta la falta de ganas, comienza la duda y empiezo a sobre analizar todo.     

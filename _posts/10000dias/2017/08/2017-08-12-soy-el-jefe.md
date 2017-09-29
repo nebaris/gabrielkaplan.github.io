@@ -11,8 +11,6 @@ img: 00020.jpg
 	<img src="{{site.baseurl}}/asset/img/00020.jpg" class="img-responsive"/>
 </div>
 
-# Sos tu jefe
-
 Yo soy mi propio jefe.  
 Yo soy la persona que decide el camino a tomar, por lo cual si no estoy haciendo las cosas bien, lo más probable es que sea mi culpa.  
 

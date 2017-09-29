@@ -11,8 +11,6 @@ img: 00019.jpg
 	<img src="{{site.baseurl}}/asset/img/00019.jpg" class="img-responsive"/>
 </div>
 
-# ¿Te interesa lo suficiente?
-
 Desde hace algunos años veo que mucha gente corre por internet buscando información sobre cómo hacer un emprendimiento o una startup con cosas que jamás se me ocurriría de ellos.  
 
 Yo no soy quién para decir qué idea tiene que seguir cada uno, solamente ofrezco esta pregunta:

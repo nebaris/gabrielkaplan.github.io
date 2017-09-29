@@ -11,8 +11,6 @@ img: 00017.jpg
 	<img src="{{site.baseurl}}/asset/img/00017.jpg" class="img-responsive"/>
 </div>
 
-# Es muy simple empezar
-
 La tecnología hace que cada vez sea más simple empezar algo.  
 
 Si querés mostrar lo que escribís, dibujás, fotografías, etc... podés arrancar por Facebook, Instagram, Tumblr o Medium.  

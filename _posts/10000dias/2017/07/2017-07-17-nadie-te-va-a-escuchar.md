@@ -11,8 +11,6 @@ img: 00006.jpg
 	<img src="{{site.baseurl}}/asset/img/00006.jpg" class="img-responsive"/>
 </div>
 
-# Nadie te va a escuchar
-
 Este es un pensamiento que se me cruzó más de una vez al querer empezar a escribir estos artículos.  
 
 Si me pongo a pensar un momento las siguientes frases, es muy posible que sean verdad:  
