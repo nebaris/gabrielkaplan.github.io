@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El secreto de la felicidad"
-date:   2017-09-29 00:00:00 -03
+date:   2017-09-30 00:00:00 -03
 category: 10000dias
 tags: [pensamientos]
 img: 00022.jpg
