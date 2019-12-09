@@ -109,15 +109,6 @@
   Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
   Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
-/pages/guitarra/
-  Link: </webpack-runtime-1e0f6c4e8b76358e1c79.js>; rel=preload; as=script
-  Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
-  Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-6611d108b42a589f4dd8.js>; rel=preload; as=script
-  Link: </app-5b78248a82cb58707924.js>; rel=preload; as=script
-  Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
-  Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
 /pages/ukelele/
   Link: </webpack-runtime-1e0f6c4e8b76358e1c79.js>; rel=preload; as=script
   Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
@@ -137,6 +128,15 @@
   Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
   Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
 /pages/pinturas/
+  Link: </webpack-runtime-1e0f6c4e8b76358e1c79.js>; rel=preload; as=script
+  Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
+  Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-6611d108b42a589f4dd8.js>; rel=preload; as=script
+  Link: </app-5b78248a82cb58707924.js>; rel=preload; as=script
+  Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
+  Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-dcae1941bbcdff4e1c1b.js>; rel=preload; as=script
+/pages/guitarra/
   Link: </webpack-runtime-1e0f6c4e8b76358e1c79.js>; rel=preload; as=script
   Link: </styles-aa840c26b1d65be8accb.js>; rel=preload; as=script
   Link: </commons-ab49601c7235434bb33e.js>; rel=preload; as=script
