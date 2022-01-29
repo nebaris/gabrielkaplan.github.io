@@ -21,12 +21,11 @@
 title: Gabriel Kaplan
 email: gabrielfkaplan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  El sitio donde organizo y almaceno todas mis cosas de música
+  Mis hobbies y colecciones
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gabrielkaplan.net" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
-minimal_mistakes_skin: default
+minimal_mistakes_skin: "air"
+locale: "es-ES"
 search: true
 
 # Build settings
@@ -49,34 +48,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "First Lastname"
+  name: "Gabriel Kaplan"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "Mis hobbies y colecciones."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/gabrielkaplanmusic/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCsrCtxFQnOR-kVpqRKl0J_w/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/gabrielkaplanmusic/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCsrCtxFQnOR-kVpqRKl0J_w/"
 
 defaults:
   # _posts
