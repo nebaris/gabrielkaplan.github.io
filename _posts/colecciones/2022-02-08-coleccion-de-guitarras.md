@@ -14,7 +14,8 @@ Con el tiempo y la ayuda de mis papás pude conseguir una guitarra acústica y l
 Con los sueldos salió una Epipihone Les Paul blanca y... el resto es historia.  
 Tengo dos guitarras hechas a medida, una creada por mí y la otra por Lucas Martínez.
 
-Esta es mi colección de guitarras
+Esta es mi colección de guitarras.  
+Actualmente cuento con **10** guitarras.  
 
 | Foto                                                                  | Marca              | Modelo                       |
 | --------------------------------------------------------------------- | ------------------ | ---------------------------- |

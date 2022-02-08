@@ -5,6 +5,7 @@ categories:
 tags:
   - Guitarra
   - Bajo
+  - Púa
 ---
 
 Esta es mi colección de púas

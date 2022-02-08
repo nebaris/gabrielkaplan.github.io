@@ -7,8 +7,10 @@ tags:
 ---
 
 Esta es mi colección de bajos, la cual comenzó con un instrumento que no es mío.  
-El bajo Gypsy Rose pertenece a mi esposa.
+El bajo Gypsy Rose pertenece a mi esposa.  
 También incluye un bajo hecho a medida por mi hermano Ariel Kaplan.
+
+Actualmente cuento con **3** bajos.
 
 | Foto                                                            | Marca            | Modelo                     |
 | --------------------------------------------------------------- | ---------------- | -------------------------- |
