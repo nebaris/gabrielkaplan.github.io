@@ -8,7 +8,7 @@ tags:
 
 Esta es mi colección de instrumentos de percusión
 
-Actualmente cuento con **1** instrumento de percusión.
+Actualmente cuento con **3** instrumentos de percusión.
 
 # Líneas
 
@@ -23,6 +23,7 @@ Actualmente cuento con **1** instrumento de percusión.
 
 # No afinada
 
-| Foto                                                                       | Marca     | Modelo |
-| -------------------------------------------------------------------------- | --------- | ------ |
-| ![Sintetizador](/assets/images/coleccion-percusion/pocket-operator-12.jpg) | **PO-12** | Rhythm |
+| Foto                                                                     | Marca                  | Modelo           |
+| ------------------------------------------------------------------------ | ---------------------- | ---------------- |
+| ![Sintetizador](/assets/images/coleccion-percusion/teponaztli-agudo.jpg) | **Sebastián Schneier** | Teponaztli Agudo |
+| ![Sintetizador](/assets/images/coleccion-percusion/teponaztli-grave.jpg) | **Sebastián Schneier** | Teponaztli Grave |

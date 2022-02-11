@@ -8,7 +8,7 @@ tags:
 
 Esta es mi colección de sintetizadores
 
-Actualmente cuento con **1** sintetizador.
+Actualmente cuento con **17** sintetizadores.
 
 # Líneas
 
