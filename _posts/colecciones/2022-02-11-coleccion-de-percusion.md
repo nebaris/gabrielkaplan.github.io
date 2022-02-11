@@ -33,6 +33,7 @@ Actualmente cuento con **20** instrumentos de percusión.
 | ![Percusión](/assets/images/coleccion-percusion/didi-guiro.jpg)                  | **Didi**               | Guiro                       |
 | ![Percusión](/assets/images/coleccion-percusion/cabasa.jpg)                      | **-**                  | Cabasa                      |
 | ![Percusión](/assets/images/coleccion-percusion/golpe-cajon.jpg)                 | **Golpe**              | Cajon Guatambu              |
+| ![Percusión](/assets/images/coleccion-percusion/medeli-bateria.jpg)              | **Medeli**             | DD 516                      |
 | ![Percusión](/assets/images/coleccion-percusion/meinl-darbuka.jpg)               | **Meinl**              | Darbuka HE-103              |
 | ![Percusión](/assets/images/coleccion-percusion/parquer-pandereta-requinto.jpg)  | **Parquer**            | Pandereta Plenera Requinto  |
 | ![Percusión](/assets/images/coleccion-percusion/parquer-pandereta-seguidor.jpg)  | **Parquer**            | Pandereta Plenera Seguidor  |
