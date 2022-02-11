@@ -3,7 +3,7 @@ title: "Colección de libros de instrumentos"
 categories:
   - Colecciones
 tags:
-  - Viento
+  - Vientos
   - Guitarra
   - Guitarra acústica
   - Guitarra clásica

@@ -6,6 +6,7 @@ tags:
   - Guitarra
   - Guitarra acústica
   - Guitarra clásica
+  - Cuerdas
 ---
 
 La guitarra fue mi primer instrumento.  
@@ -29,3 +30,5 @@ Actualmente cuento con **10** guitarras.
 | ![Guitarra](/assets/images/coleccion-guitarras/squier-strato.jpg)     | **Squier**         | Stratocaster Contemporary HH |
 | ![Guitarra](/assets/images/coleccion-guitarras/ranger.jpg)            | **Ranger**         | Les Paul                     |
 | ![Guitarra](/assets/images/coleccion-guitarras/yamaha-pac.jpg)        | **Yamaha**         | Pacifica 212 VFM             |
+
+<a href="#líneas" class="back-to-top">Volver arriba ↑</a>

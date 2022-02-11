@@ -4,6 +4,7 @@ categories:
   - Colecciones
 tags:
   - Bajo
+  - Cuerdas
 ---
 
 Esta es mi colección de bajos, la cual comenzó con un instrumento que no es mío.  
@@ -17,3 +18,5 @@ Actualmente cuento con **3** bajos.
 | ![Guitarra](/assets/images/coleccion-bajos/ak.jpg)              | **Ariel Kaplan** | Rhodium                    |
 | ![Guitarra](/assets/images/coleccion-bajos/gypsy-rose.jpg)      | **Gypsy Rose**   | Precision Jazz             |
 | ![Guitarra](/assets/images/coleccion-bajos/squier-jazzbass.jpg) | **Squier**       | Jazz Bass Classic Vibe 70s |
+
+<a href="#líneas" class="back-to-top">Volver arriba ↑</a>

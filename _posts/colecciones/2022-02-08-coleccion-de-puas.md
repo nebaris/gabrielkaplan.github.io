@@ -6,6 +6,7 @@ tags:
   - Guitarra
   - Bajo
   - Púa
+  - Cuerdas
 ---
 
 Esta es mi colección de púas

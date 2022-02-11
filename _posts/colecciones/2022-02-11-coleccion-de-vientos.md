@@ -3,7 +3,7 @@ title: "Colección de instrumento de vientos"
 categories:
   - Colecciones
 tags:
-  - Viento
+  - Vientos
   - Tin Whistle
   - Clarinete
   - Flauta Dulce
@@ -33,3 +33,5 @@ Actualmente cuento con **16** instrumentos de viento.
 | ![Venova](/assets/images/coleccion-vientos/jsax.png)                          | **Nuvo**      | Saxo Plástico   | jSax               |
 | ![Venova](/assets/images/coleccion-vientos/venova-soprano.png)                | **Yamaha**    | Venova          | Soprano            |
 | ![Venova](/assets/images/coleccion-vientos/venova-alto.png)                   | **Yamaha**    | Venova          | Venova Alto        |
+
+<a href="#líneas" class="back-to-top">Volver arriba ↑</a>
