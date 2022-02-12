@@ -29,6 +29,9 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | Foto                                                                | Marca        | Modelo                  |
 | ------------------------------------------------------------------- | ------------ | ----------------------- |
 | ![Bajo](/assets/images/deseos/epiphone-thunderbird-pro-natural.jpg) | **Epiphone** | Thunderbird Pro Natural |
+| ![Bajo](/assets/images/deseos/fender-jaguar.jpg)                    | **Fender**   | Jaguar                  |
+| ![Bajo](/assets/images/deseos/fender-precision.jpg)                 | **Fender**   | Precision               |
+| ![Bajo](/assets/images/deseos/ibanez-sr300.jpg)                     | **Ibanez**   | SR300                   |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 
@@ -38,15 +41,25 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | ------------------------------------------------------ | ------------ | --------- |
 | ![Efectos](/assets/images/deseos/cuvave-cube-baby.jpg) | **Cuvave**   | Cube Baby |
 | ![Efectos](/assets/images/deseos/headrush-mx5.jpg)     | **Headrush** | MX5       |
+| ![Efectos](/assets/images/deseos/hotone-ampero.jpg)    | **Hotone**   | Ampero    |
+| ![Efectos](/assets/images/deseos/nux-mg-30.jpg)        | **Nux**      | MG-30     |
 | ![Efectos](/assets/images/deseos/mooer-ge250.jpg)      | **Mooer**    | GE-250    |
+| ![Efectos](/assets/images/deseos/valeton-gp200.jpg)    | **Valeton**  | GP 200    |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 
 # Guitarras
 
-| Foto                                                                           | Marca      | Modelo                           |
-| ------------------------------------------------------------------------------ | ---------- | -------------------------------- |
-| ![Guitarra](/assets/images/deseos/squier-telecaster-thinline-classic-vibe.jpg) | **Squier** | Telecaster Thinline Classic Vibe |
+| Foto                                                                           | Marca        | Modelo                           |
+| ------------------------------------------------------------------------------ | ------------ | -------------------------------- |
+| ![Guitarra](/assets/images/deseos/bc-rich-mocking-bird.jpg)                    | **BC Rich**  | Mocking Bird MK9                 |
+| ![Guitarra](/assets/images/deseos/fender-meteora.jpg)                          | **Fender**   | Meteora                          |
+| ![Guitarra](/assets/images/deseos/hagstrom-fantomen.jpg)                       | **Hagstrom** | Fantomen                         |
+| ![Guitarra](/assets/images/deseos/jackson-js42.jpg)                            | **Jackson**  | JS42 Ziricote                    |
+| ![Guitarra](/assets/images/deseos/ltd-frx401.jpg)                              | **LTD**      | FRX 401                          |
+| ![Guitarra](/assets/images/deseos/squier-cyclone-paranormal.jpg)               | **Squier**   | Cyclone Paranormal               |
+| ![Guitarra](/assets/images/deseos/squier-telecaster-thinline-classic-vibe.jpg) | **Squier**   | Telecaster Thinline Classic Vibe |
+| ![Guitarra](/assets/images/deseos/sterling-st-vincent.jpg)                     | **Sterling** | St. Vincent                      |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 
