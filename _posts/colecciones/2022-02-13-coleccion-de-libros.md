@@ -38,7 +38,7 @@ Acá está todo el catálogo de libros, para ver de qué trata cada uno seguir l
 
 # Libros
 
-Actualmente cuento con **49** libros
+Actualmente cuento con **51** libros
 
 # Listado de instrumentos
 
@@ -175,14 +175,16 @@ Actualmente cuento con **49** libros
 
 # Piano
 
-| Portada                                                                                | Editorial   | Título                        |
-| -------------------------------------------------------------------------------------- | ----------- | ----------------------------- |
-| ![Piano](/assets/images/coleccion-libros/Alfred - Michael Aaron Piano Course 1.jpg)    | Alfred      | Michael Aaron Piano Course 1  |
-| ![Piano](/assets/images/coleccion-libros/Alfred - Suzuki Piano School 1.jpg)           | Alfred      | Suzuki Piano School 1         |
-| ![Piano](/assets/images/coleccion-libros/Hal Leonard - FastTrack Teclado 1.jpg)        | Hal Leonard | FastTrack Keyboard 1          |
-| ![Piano](/assets/images/coleccion-libros/Bastien---Piano-Basics-Level-1---Bastien.jpg) | Kjos        | Bastien Piano Basics Level 1  |
-| ![Piano](/assets/images/coleccion-libros/Progressive Beginner Piano.jpg)               | Muzician    | Progressive Beginner Piano    |
-| ![Piano](/assets/images/coleccion-libros/Wiley---Teach-Yourself-VISUALLY-Piano.jpg)    | Wiley       | Teach Yourself Visually Piano |
+| Portada                                                                                      | Editorial      | Título                          |
+| -------------------------------------------------------------------------------------------- | -------------- | ------------------------------- |
+| ![Piano](/assets/images/coleccion-libros/Alfred - Michael Aaron Piano Course 1.jpg)          | Alfred         | Michael Aaron Piano Course 1    |
+| ![Piano](/assets/images/coleccion-libros/Alfred - Suzuki Piano School 1.jpg)                 | Alfred         | Suzuki Piano School 1           |
+| ![Piano](/assets/images/coleccion-libros/Hal Leonard - FastTrack Teclado 1.jpg)              | Hal Leonard    | FastTrack Keyboard 1            |
+| ![Piano](/assets/images/coleccion-libros/hal-leonard-super-easy-movie-songs.jpg)             | Hal Leonard    | Super Easy Movie Songs          |
+| ![Piano](/assets/images/coleccion-libros/Hanan-Tabouhot-Easy-Piano-Pieces-For-Beginners.jpg) | Hanan Tabouhot | Easy Piano Pieces For Beginners |
+| ![Piano](/assets/images/coleccion-libros/Bastien---Piano-Basics-Level-1---Bastien.jpg)       | Kjos           | Bastien Piano Basics Level 1    |
+| ![Piano](/assets/images/coleccion-libros/Progressive Beginner Piano.jpg)                     | Muzician       | Progressive Beginner Piano      |
+| ![Piano](/assets/images/coleccion-libros/Wiley---Teach-Yourself-VISUALLY-Piano.jpg)          | Wiley          | Teach Yourself Visually Piano   |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 

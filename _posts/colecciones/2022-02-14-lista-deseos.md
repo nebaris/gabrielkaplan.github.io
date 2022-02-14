@@ -65,9 +65,10 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 
 # Percusión
 
-| Foto                                              | Marca         | Modelo |
-| ------------------------------------------------- | ------------- | ------ |
-| ![Percusión](/assets/images/deseos/garrahand.jpg) | **Garrahand** | GDrum  |
+| Foto                                                  | Marca             | Modelo                            |
+| ----------------------------------------------------- | ----------------- | --------------------------------- |
+| ![Percusión](/assets/images/deseos/garrahand.jpg)     | **Garrahand**     | GDrum                             |
+| ![Percusión](/assets/images/deseos/tube-whackers.jpg) | **Tube Whackers** | Octava diatónica + 5 alteraciones |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 
