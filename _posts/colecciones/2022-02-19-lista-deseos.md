@@ -23,6 +23,7 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 - [Guitarras](#guitarras)
 - [Percusión](#percusión)
 - [Sintetizadores](#sintetizadores)
+- [Teclados](#teclados)
 
 # Bajos
 
@@ -68,6 +69,7 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | Foto                                                  | Marca             | Modelo                            |
 | ----------------------------------------------------- | ----------------- | --------------------------------- |
 | ![Percusión](/assets/images/deseos/garrahand.jpg)     | **Garrahand**     | GDrum                             |
+| ![Percusión](/assets/images/deseos/meinl-clave.jpg)   | **Meinl**         | Clave CL3RW                       |
 | ![Percusión](/assets/images/deseos/tube-whackers.jpg) | **Tube Whackers** | Octava diatónica + 5 alteraciones |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
@@ -82,5 +84,14 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | ![Sintetizador](/assets/images/deseos/korg-nts1.jpg)          | **Korg**      | NTS1          |
 | ![Sintetizador](/assets/images/deseos/korg-volca-fm.jpg)      | **Korg**      | Volca FM      |
 | ![Sintetizador](/assets/images/deseos/korg-volca-sample.jpg)  | **Korg**      | Volca Sample  |
+
+<a href="#listado" class="back-to-top">Volver arriba ↑</a>
+
+# Teclados
+
+| Foto                                                  | Marca      | Modelo   |
+| ----------------------------------------------------- | ---------- | -------- |
+| ![Teclado](/assets/images/deseos/yamaha-psr-e373.jpg) | **Yamaha** | PSR-E373 |
+| ![Teclado](/assets/images/deseos/yamaha-pss-a50.jpg)  | **Yamaha** | PSS-A50  |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
