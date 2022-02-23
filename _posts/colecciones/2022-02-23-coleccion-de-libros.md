@@ -24,6 +24,8 @@ tags:
   - Piano
   - Tin Whistle
   - Ukelele
+  - Flauta Nativa
+  - Flauta Traversa
 ---
 
 Durante mucho tiempo fui tocando instrumentos pero sin tener ningún tipo de formación.
@@ -38,7 +40,7 @@ Acá está todo el catálogo de libros, para ver de qué trata cada uno seguir l
 
 # Libros
 
-Actualmente cuento con **51** libros
+Actualmente cuento con **65** libros
 
 # Listado de instrumentos
 
@@ -49,6 +51,8 @@ Actualmente cuento con **51** libros
 - [Charango](#charango)
 - [Clarinete](#clarinete)
 - [Flauta Dulce](#flauta-dulce)
+- [Flauta Nativa](#flauta-nativa)
+- [Flauta Traversa](#flauta-traversa)
 - [Guitarra](#guitarra)
 - [Guitarra Acústica](#guitarra-acústica)
 - [Guitarra Clásica](#guitarra-clásica)
@@ -79,6 +83,15 @@ Actualmente cuento con **51** libros
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
+# Banjo
+
+| Portada                                                                    | Editorial   | Título            |
+| -------------------------------------------------------------------------- | ----------- | ----------------- |
+| ![Banjo](/assets/images/coleccion-libros/Hal Leonard - Banjo Method 1.jpg) | Hal Leonard | Banjo Method 1    |
+| ![Banjo](/assets/images/coleccion-libros/Muzician - Progressive Banjo.jpg) | Muzician    | Progressive Banjo |
+
+<a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
+
 # Batería
 
 | Portada                                                                                           | Editorial   | Título                       |
@@ -86,8 +99,8 @@ Actualmente cuento con **51** libros
 | ![Batería](/assets/images/coleccion-libros/Alfred - Alfred's Drum Method, Book 1.jpg)             | Alfred      | Alfred's Drum Method, Book 1 |
 | ![Batería](/assets/images/coleccion-libros/Hal Leonard - 1001 Drum Grooves - Steve Mansfield.jpg) | Hal Leonard | 1001 Drum Grooves            |
 | ![Batería](/assets/images/coleccion-libros/Hal Leonard - FastTrack Drums Method 1.jpg)            | Hal Leonard | FastTrack Drums Method 1     |
-| ![Batería](/assets/images/coleccion-libros/muzician - beginner drums.jpg)                         | Muzician    | Beginner Drums               |
-| ![Batería](/assets/images/coleccion-libros/Ricordi---Introduccion-Al-Rock.jpg)                    | Ricordi     | Introduccion-Al-Rock         |
+| ![Batería](/assets/images/coleccion-libros/muzician - beginner drums.jpg)                         | Muzician    | Progressive Beginner Drums   |
+| ![Batería](/assets/images/coleccion-libros/Ricordi---Introduccion-Al-Rock.jpg)                    | Ricordi     | Introduccion Al Rock         |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
@@ -115,22 +128,41 @@ Actualmente cuento con **51** libros
 | -------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
 | ![Flauta Dulce](/assets/images/coleccion-libros/aldo-bova-The-Descant-Recorder-a-Comprehensive-New-Method.jpg) | Aldo Bova | The descant recorder a comprehensive new method |
 | ![Flauta Dulce](/assets/images/coleccion-libros/Alfred - Suzuki Recorder School 1 - Soprano.jpg)               | Alfred    | Suzuki Recorder School 1 - Soprano              |
+| ![Flauta Dulce](/assets/images/coleccion-libros/mel-bay-celtic-tunes-for-recorder.jpg)                         | Mel Bay   | Celtic Tunes For Recorder                       |
 | ![Flauta Dulce](/assets/images/coleccion-libros/progressive beginner recorder.jpg)                             | Muzician  | Progressive Beginner Recorder                   |
+| ![Flauta Dulce](/assets/images/coleccion-libros/schott-method-for-trebble-recorder.jpg)                        | Schott    | Method For Trebble Recorder                     |
 | ![Flauta Dulce](/assets/images/coleccion-libros/Westco---Hands-on-Recorder-1.jpg)                              | Westco    | Hands on Recorder 1                             |
+
+<a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
+
+# Flauta Nativa
+
+| Portada                                                                                             | Editorial | Título                              |
+| --------------------------------------------------------------------------------------------------- | --------- | ----------------------------------- |
+| ![Flauta Nativa](/assets/images/coleccion-libros/Mel-Bay---First-Lessons-Native-American-Flute.jpg) | Mel Bay   | First Lessons Native American Flute |
+
+<a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
+
+# Flauta Traversa
+
+| Portada                                                                                     | Editorial | Título                     |
+| ------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| ![Flauta Traversa](/assets/images/coleccion-libros/muzician-progressive-beginner-flute.jpg) | Muzician  | Progressive Beginner Flute |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
 # Guitarra
 
-| Portada                                                                                                                     | Editorial   | Título                                     |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
-| ![Guitarra](/assets/images/coleccion-libros/Alfred---Guitar-method-1-by-aaron-stang.jpg)                                    | Alfred      | Guitar Method 1                            |
-| ![Guitarra](/assets/images/coleccion-libros/Alfred---Jerry-Snyder---Guitar-School-Method-Book-1.jpg)                        | Alfred      | Jerry Snyder - Guitar School Method Book 1 |
-| ![Guitarra](/assets/images/coleccion-libros/Alfred---Teach-Yourself-to-Play-Guitar---Morty-Manus.jpg)                       | Alfred      | Teach Yourself to Play Guitar              |
-| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard - Fasttrack Guitar 1.jpg)                                           | Hal Leonard | Fasttrack Guitar 1                         |
-| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard Guitar Method Book 1.jpg)                                           | Hal Leonard | Guitar Method Book 1                       |
-| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard-Berklee Press - A Modern Method for Guitar 1 - William Leavitt.jpg) | Hal Leonard | A Modern Method for Guitar 1               |
-| ![Guitarra](/assets/images/coleccion-libros/progressive beginner guitar.jpg)                                                | Muzician    | Progressive Beginner Guitar                |
+| Portada                                                                                                   | Editorial   | Título                                     |
+| --------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------ |
+| ![Guitarra](/assets/images/coleccion-libros/Alfred---Guitar-method-1-by-aaron-stang.jpg)                  | Alfred      | Guitar Method 1                            |
+| ![Guitarra](/assets/images/coleccion-libros/Alfred---Jerry-Snyder---Guitar-School-Method-Book-1.jpg)      | Alfred      | Jerry Snyder - Guitar School Method Book 1 |
+| ![Guitarra](/assets/images/coleccion-libros/Alfred---Teach-Yourself-to-Play-Guitar---Morty-Manus.jpg)     | Alfred      | Teach Yourself to Play Guitar              |
+| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard - Fasttrack Guitar 1.jpg)                         | Hal Leonard | Fasttrack Guitar 1                         |
+| ![Guitarra](/assets/images/coleccion-libros/hal-leonard-guitar-for-kids.jpg)                              | Hal Leonard | Guitar For Kids                            |
+| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard Guitar Method Book 1.jpg)                         | Hal Leonard | Guitar Method Book 1                       |
+| ![Guitarra](/assets/images/coleccion-libros/Hal Leonard-Berklee Press - A Modern Method for Guitar 1.jpg) | Hal Leonard | A Modern Method for Guitar 1               |
+| ![Guitarra](/assets/images/coleccion-libros/progressive beginner guitar.jpg)                              | Muzician    | Progressive Beginner Guitar                |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
@@ -175,34 +207,41 @@ Actualmente cuento con **51** libros
 
 # Piano
 
-| Portada                                                                                      | Editorial      | Título                          |
-| -------------------------------------------------------------------------------------------- | -------------- | ------------------------------- |
-| ![Piano](/assets/images/coleccion-libros/Alfred - Michael Aaron Piano Course 1.jpg)          | Alfred         | Michael Aaron Piano Course 1    |
-| ![Piano](/assets/images/coleccion-libros/Alfred - Suzuki Piano School 1.jpg)                 | Alfred         | Suzuki Piano School 1           |
-| ![Piano](/assets/images/coleccion-libros/Hal Leonard - FastTrack Teclado 1.jpg)              | Hal Leonard    | FastTrack Keyboard 1            |
-| ![Piano](/assets/images/coleccion-libros/hal-leonard-super-easy-movie-songs.jpg)             | Hal Leonard    | Super Easy Movie Songs          |
-| ![Piano](/assets/images/coleccion-libros/Hanan-Tabouhot-Easy-Piano-Pieces-For-Beginners.jpg) | Hanan Tabouhot | Easy Piano Pieces For Beginners |
-| ![Piano](/assets/images/coleccion-libros/Bastien---Piano-Basics-Level-1---Bastien.jpg)       | Kjos           | Bastien Piano Basics Level 1    |
-| ![Piano](/assets/images/coleccion-libros/Progressive Beginner Piano.jpg)                     | Muzician       | Progressive Beginner Piano      |
-| ![Piano](/assets/images/coleccion-libros/Wiley---Teach-Yourself-VISUALLY-Piano.jpg)          | Wiley          | Teach Yourself Visually Piano   |
+| Portada                                                                                                 | Editorial        | Título                                            |
+| ------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| ![Piano](/assets/images/coleccion-libros/Alfred - Michael Aaron Piano Course 1.jpg)                     | Alfred           | Michael Aaron Piano Course 1                      |
+| ![Piano](/assets/images/coleccion-libros/Alfred - Suzuki Piano School 1.jpg)                            | Alfred           | Suzuki Piano School 1                             |
+| ![Piano](/assets/images/coleccion-libros/Hal Leonard - FastTrack Teclado 1.jpg)                         | Hal Leonard      | FastTrack Keyboard 1                              |
+| ![Piano](/assets/images/coleccion-libros/hal-leonard-super-easy-movie-songs.jpg)                        | Hal Leonard      | Super Easy Movie Songs                            |
+| ![Piano](/assets/images/coleccion-libros/Hanan-Tabouhot---Collection-of-101-Piano-Solo.jpg)             | Hanan Tabouhot   | Collection Of 101 Piano Solo Pieces For Beginners |
+| ![Piano](/assets/images/coleccion-libros/Hanan-Tabouhot-Easy-Piano-Pieces-For-Beginners.jpg)            | Hanan Tabouhot   | Easy Piano Pieces For Beginners                   |
+| ![Piano](/assets/images/coleccion-libros/Bastien---Piano-Basics-Level-1---Bastien.jpg)                  | Kjos             | Bastien Piano Basics Level 1                      |
+| ![Piano](/assets/images/coleccion-libros/Making-Music-Fun---273-Easy-And-Intermediate-Piano-Pieces.jpg) | Making Music Fun | 273 Easy And Intermediate Piano Pieces            |
+| ![Piano](/assets/images/coleccion-libros/Progressive Beginner Piano.jpg)                                | Muzician         | Progressive Beginner Piano                        |
+| ![Piano](/assets/images/coleccion-libros/Wiley---Teach-Yourself-VISUALLY-Piano.jpg)                     | Wiley            | Teach Yourself Visually Piano                     |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
 # Tin Whistle
 
-| Portada                                                                                | Editorial | Título                             |
-| -------------------------------------------------------------------------------------- | --------- | ---------------------------------- |
-| ![Tin Whistle](/assets/images/coleccion-libros/The Bill Ochs Tin Whistle Handbook.jpg) | Mel Bay   | The Bill Ochs Tin Whistle Handbook |
-| ![Tin Whistle](/assets/images/coleccion-libros/Progressive Tin Whistle.jpg)            | Muzician  | Progressive Tin Whistle            |
+| Portada                                                                                 | Editorial          | Título                              |
+| --------------------------------------------------------------------------------------- | ------------------ | ----------------------------------- |
+| ![Tin Whistle](/assets/images/coleccion-libros/Andersonstown---Tin-Whistle-Grade-1.jpg) | Andersonstown      | Tin Whistle Grade 1                 |
+| ![Tin Whistle](/assets/images/coleccion-libros/Andersonstown---Tin-Whistle-Grade-2.jpg) | Andersonstown      | Tin Whistle Grade 2                 |
+| ![Tin Whistle](/assets/images/coleccion-libros/50-Simple-Tunes-For-The-Tin-Whistle.jpg) | Armagh Pipers Club | 50 Simple Tunes For The Tin Whistle |
+| ![Tin Whistle](/assets/images/coleccion-libros/The Bill Ochs Tin Whistle Handbook.jpg)  | Mel Bay            | The Bill Ochs Tin Whistle Handbook  |
+| ![Tin Whistle](/assets/images/coleccion-libros/Progressive Tin Whistle.jpg)             | Muzician           | Progressive Tin Whistle             |
+| ![Ukelele](/assets/images/coleccion-libros/Ossian---The-Tin-Whistle-Book.jpg)           | Ossian             | The Tin Whistle Book                |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
 # Ukelele
 
-| Portada                                                                          | Editorial   | Título                       |
-| -------------------------------------------------------------------------------- | ----------- | ---------------------------- |
-| ![Tin Whistle](/assets/images/coleccion-libros/Fingerstyle Ukulele.jpg)          | Hal Leonard | Fingerstyle Ukulele          |
-| ![Tin Whistle](/assets/images/coleccion-libros/from-lute-to-uke.jpg)             | Hal Leonard | From Lute To Uke             |
-| ![Tin Whistle](/assets/images/coleccion-libros/Progressive Beginner Ukulele.jpg) | Muzician    | Progressive Beginner Ukulele |
+| Portada                                                                      | Editorial   | Título                       |
+| ---------------------------------------------------------------------------- | ----------- | ---------------------------- |
+| ![Ukelele](/assets/images/coleccion-libros/Fingerstyle Ukulele.jpg)          | Hal Leonard | Fingerstyle Ukulele          |
+| ![Ukelele](/assets/images/coleccion-libros/from-lute-to-uke.jpg)             | Hal Leonard | From Lute To Uke             |
+| ![Ukelele](/assets/images/coleccion-libros/hal-leonard-ukelele-method-1.jpg) | Hal Leonard | Ukelele Method 1             |
+| ![Ukelele](/assets/images/coleccion-libros/Progressive Beginner Ukulele.jpg) | Muzician    | Progressive Beginner Ukulele |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
