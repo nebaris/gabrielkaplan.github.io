@@ -69,7 +69,6 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | Foto                                                  | Marca             | Modelo                            |
 | ----------------------------------------------------- | ----------------- | --------------------------------- |
 | ![Percusión](/assets/images/deseos/garrahand.jpg)     | **Garrahand**     | GDrum                             |
-| ![Percusión](/assets/images/deseos/meinl-clave.jpg)   | **Meinl**         | Clave CL3RW                       |
 | ![Percusión](/assets/images/deseos/tube-whackers.jpg) | **Tube Whackers** | Octava diatónica + 5 alteraciones |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>

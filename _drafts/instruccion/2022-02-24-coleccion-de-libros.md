@@ -40,7 +40,7 @@ Acá está todo el catálogo de libros, para ver de qué trata cada uno seguir l
 
 # Libros
 
-Actualmente cuento con **65** libros
+Actualmente cuento con **66** libros
 
 # Listado de instrumentos
 
@@ -58,6 +58,7 @@ Actualmente cuento con **65** libros
 - [Guitarra Clásica](#guitarra-clásica)
 - [jSax](#jsax)
 - [Mandolina](#mandolina)
+- [Percusión](#percusión)
 - [Piano](#piano)
 - [Tin Whistle](#tin-whistle)
 - [Ukelele](#ukelele)
@@ -202,6 +203,14 @@ Actualmente cuento con **65** libros
 | ------------------------------------------------------------------------------ | ----------- | -------------------- |
 | ![Mandolina](/assets/images/coleccion-libros/Hal-Leonard--Mandolin-Method.jpg) | Hal Leonard | Mandolin Method      |
 | ![Mandolina](/assets/images/coleccion-libros/progressive mandolin.jpg)         | Muzician    | Progressive Mandolin |
+
+<a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
+
+# Percusión
+
+| Portada                                                                           | Editorial | Título                 |
+| --------------------------------------------------------------------------------- | --------- | ---------------------- |
+| ![Percusión](/assets/images/coleccion-libros/muzician-progressive-percussion.jpg) | Muzician  | Progressive Percussion |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
