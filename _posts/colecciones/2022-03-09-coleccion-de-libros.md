@@ -40,7 +40,7 @@ Acá está todo el catálogo de libros, para ver de qué trata cada uno seguir l
 
 # Libros
 
-Actualmente cuento con **1** libros
+Actualmente cuento con **2** libros
 
 # Listado de instrumentos
 
@@ -50,6 +50,7 @@ Actualmente cuento con **1** libros
 - [Batería](#batería)
 - [Charango](#charango)
 - [Clarinete](#clarinete)
+- [Efectos](#efectos)
 - [Flauta Dulce](#flauta-dulce)
 - [Flauta Nativa](#flauta-nativa)
 - [Flauta Traversa](#flauta-traversa)
@@ -68,5 +69,13 @@ Actualmente cuento con **1** libros
 | Portada                                                                                                      | Editorial | Título                                           |
 | ------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------ |
 | ![Armónica](/assets/images/coleccion-libros/Muzician---Progressive-Harmonica-Method-For-Young-Beginners.png) | Muzician  | [Progressive Harmonica Method for Young Beginners](/libros/muzician-progressive-harmonica-method-for-young-beginners) |
+
+<a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
+
+# Efectos
+
+| Portada                                                                                                      | Editorial | Título                                           |
+| ------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------ |
+| ![Efectos](/assets/images/coleccion-libros/line6-pod-go-owners-manual.png) | Line 6  | [Owner's Manual](/libros/pod-go-owners-manual) |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
