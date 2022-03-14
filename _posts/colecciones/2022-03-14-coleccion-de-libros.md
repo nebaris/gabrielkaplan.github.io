@@ -66,16 +66,16 @@ Actualmente cuento con **2** libros
 
 # Armónica
 
-| Portada                                                                                                      | Editorial | Título                                           |
-| ------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------ |
+| Portada                                                                                                      | Editorial | Título                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------ | --------- | --------------------------------------------------------------------------------------------------------------------- |
 | ![Armónica](/assets/images/coleccion-libros/Muzician---Progressive-Harmonica-Method-For-Young-Beginners.png) | Muzician  | [Progressive Harmonica Method for Young Beginners](/libros/muzician-progressive-harmonica-method-for-young-beginners) |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
 # Efectos
 
-| Portada                                                                                                      | Editorial | Título                                           |
-| ------------------------------------------------------------------------------------------------------------ | --------- | ------------------------------------------------ |
-| ![Efectos](/assets/images/coleccion-libros/line6-pod-go-owners-manual.png) | Line 6  | [Owner's Manual](/libros/pod-go-owners-manual) |
+| Portada                                                                    | Editorial | Título                                                                    |
+| -------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------- |
+| ![Efectos](/assets/images/coleccion-libros/line6-pod-go-owners-manual.png) | Line 6    | [POD Go Manual de Usuario 1.20](/libros/indice-pod-go-manual-de-usuario/) |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
