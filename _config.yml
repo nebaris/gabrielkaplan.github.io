@@ -27,6 +27,7 @@ url: "http://gabrielkaplan.net" # the base hostname & protocol for your site, e.
 minimal_mistakes_skin: "air"
 locale: "es-ES"
 search: true
+google_site_verification: G6K1mMKzZgpFLaf2vLGPiSpniPJeMlKdXFGhFOR235E
 
 # Build settings
 # theme: minima
@@ -77,7 +78,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages

@@ -7,4 +7,6 @@ tags:
   - Flauta Dulce
 ---
 
-1. [¿Cómo sostener la flauta?](/libros/como-sostener-la-flauta/)
+## Flauta dulce soprano
+
+1. [¿Cómo sostener la flauta y leer música?](/libros/como-sostener-la-flauta-y-leer-musica/)
