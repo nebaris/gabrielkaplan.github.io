@@ -1,5 +1,5 @@
 ---
-title: "Flauta dulce soprano: 1 - ¿Cómo sostener la flauta y leer música?"
+title: "¿Cómo sostener la flauta y leer música?"
 categories:
   - Libros
 tags:
@@ -7,7 +7,8 @@ tags:
   - Flauta Dulce
 ---
 
-**Libro:** [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1//)
+- **Instrumento:** Flauta dulce soprano,   
+- **Libro:** [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1//)
 
 ## ¿Cómo sostener la flauta?
 
