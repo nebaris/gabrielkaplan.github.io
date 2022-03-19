@@ -7,8 +7,9 @@ tags:
   - Flauta Dulce
 ---
 
-- **Instrumento:** Flauta dulce soprano,   
-- **Libro:** [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1//)
+- **Instrumento:** Flauta dulce soprano,
+- **Libro:** [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1-3kuaun//),
+- **Artículo:** 001
 
 ## ¿Cómo sostener la flauta?
 

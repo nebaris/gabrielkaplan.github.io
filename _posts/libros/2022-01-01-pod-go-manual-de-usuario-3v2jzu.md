@@ -6,4 +6,4 @@ tags:
   - Efectos
 ---
 
-1. [Introducción al POD Go](/libros/introduccion-al-pod-go/)
+1. [Introducción al POD Go](/libros/introduccion-al-pod-go-g4eg7g/)

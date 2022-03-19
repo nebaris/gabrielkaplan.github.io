@@ -76,7 +76,7 @@ Actualmente cuento con **3** libros
 
 | Portada                                                                    | Editorial | Título                                                                    |
 | -------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------- |
-| ![Efectos](/assets/images/coleccion-libros/line6-pod-go-owners-manual.png) | Line 6    | [POD Go Manual de Usuario 1.20](/libros/indice-pod-go-manual-de-usuario/) |
+| ![Efectos](/assets/images/coleccion-libros/line6-pod-go-owners-manual.png) | Line 6    | [POD Go Manual de Usuario 1.20](/libros/indice-pod-go-manual-de-usuario-3v2jzu/) |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>
 
@@ -84,6 +84,6 @@ Actualmente cuento con **3** libros
 
 | Portada                                                                                                              | Editorial | Título                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Flauta Dulce](/assets/images/coleccion-libros/muzician-progressive-recorder-method-for-young-beginners-book-1.png) | Line 6    | [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1/) |
+| ![Flauta Dulce](/assets/images/coleccion-libros/muzician-progressive-recorder-method-for-young-beginners-book-1.png) | Line 6    | [Muzician - Progressive Recorder Method for Young Beginners Book 1](/libros/muzician-progressive-recorder-method-for-young-beginners-book-1-3kuaun/) |
 
 <a href="#listado-de-instrumentos" class="back-to-top">Volver arriba ↑</a>

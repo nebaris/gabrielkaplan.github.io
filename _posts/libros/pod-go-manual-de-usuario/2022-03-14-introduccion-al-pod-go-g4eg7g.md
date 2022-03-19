@@ -6,7 +6,7 @@ tags:
   - Efectos
 ---
 
-Libro: [Line 6 - POD Go Manual de Usuario](/libros/indice-pod-go-manual-de-usuario/)  
+Libro: [Line 6 - POD Go Manual de Usuario](/libros/indice-pod-go-manual-de-usuario-3v2jzu/)  
 Número de artículo: 001
 
 El POD Go es una pedalera multiefecto para guitarra y bajo. Existen dos versiones, la normal y la Wireless. La Wireless tiene un receptor inalámbrico para que puedas conectar tu guitarra y tocar sin cables.  
