@@ -51,7 +51,7 @@ plugins:
 author:
   name: "Gabriel Kaplan"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Mis hobbies y colecciones."
+  bio: "Todo lo que voy aprendiendo en el mundo de la música"
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

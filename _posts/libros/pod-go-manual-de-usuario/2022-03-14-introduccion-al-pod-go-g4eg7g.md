@@ -1,5 +1,5 @@
 ---
-title: "Introducción al POD Go"
+title: "Introducción al Line 6 POD Go"
 categories:
   - Libros
 tags:
