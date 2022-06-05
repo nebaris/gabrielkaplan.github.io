@@ -32,6 +32,7 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 | ![Bajo](/assets/images/deseos/squier-jaguar.png)                    | **Squier**   | Jaguar                    |
 | ![Bajo](/assets/images/deseos/epiphone-thunderbird-pro-natural.jpg) | **Epiphone** | Thunderbird Pro Natural   |
 | ![Bajo](/assets/images/deseos/fender-precision.jpg)                 | **Fender**   | Precision (con doble mic) |
+| ![Bajo](/assets/images/deseos/bajo-acustico.png)                    | **Fender**   | Acústico Cb60             |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 
@@ -65,12 +66,11 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 
 # Sintetizadores
 
-| Foto                                                          | Marca         | Modelo        |
-| ------------------------------------------------------------- | ------------- | ------------- |
-| ![Sintetizador](/assets/images/deseos/arturia-microfreak.jpg) | **Arturia**   | Microfreak    |
-| ![Sintetizador](/assets/images/deseos/behringer-rd6.jpg)      | **Behringer** | RD6           |
-| ![Sintetizador](/assets/images/deseos/korg-microkorg-mk1.jpg) | **Korg**      | Microkorg MK1 |
-| ![Sintetizador](/assets/images/deseos/korg-nts1.jpg)          | **Korg**      | NTS1          |
-| ![Sintetizador](/assets/images/deseos/korg-volca-fm.jpg)      | **Korg**      | Volca FM 2    |
+| Foto                                                          | Marca         | Modelo     |
+| ------------------------------------------------------------- | ------------- | ---------- |
+| ![Sintetizador](/assets/images/deseos/arturia-microfreak.jpg) | **Arturia**   | Microfreak |
+| ![Sintetizador](/assets/images/deseos/behringer-rd6.jpg)      | **Behringer** | RD6        |
+| ![Sintetizador](/assets/images/deseos/korg-nts1.jpg)          | **Korg**      | NTS1       |
+| ![Sintetizador](/assets/images/deseos/korg-volca-fm.jpg)      | **Korg**      | Volca FM 2 |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
