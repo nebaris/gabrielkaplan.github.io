@@ -1,4 +1,6 @@
 main:
+  - title: "Instrumentos"
+    url: /instrumentos/
   - title: "Artículos"
     url: /posts/
   - title: "Categorias"

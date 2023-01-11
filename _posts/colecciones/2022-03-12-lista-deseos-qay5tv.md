@@ -46,12 +46,12 @@ Estos son algunos de los ítems que deseo agregar a mis colecciones
 
 # Guitarras
 
-| Foto                                                                           | Marca        | Modelo                               |
-| ------------------------------------------------------------------------------ | ------------ | ------------------------------------ |
-| ![Guitarra](/assets/images/deseos/fender-meteora.jpg)                          | **Fender**   | Meteora                              |
-| ![Guitarra](/assets/images/deseos/fender-telecaster-thinline.jpg)              | **Fender**   | [Telecaster Thinline American Elite] |
-| ![Guitarra](/assets/images/deseos/nigrelli-Alchimia-Relic-PLC-Black-Satin.jpg) | **Nigrelli** | [Alchimia Relic PLC Black Satin 401] |
-| ![Guitarra](/assets/images/deseos/sterling-st-vincent.jpg)                     | **Sterling** | St. Vincent                          |
+| Foto                                                                           | Marca        | Modelo                             |
+| ------------------------------------------------------------------------------ | ------------ | ---------------------------------- |
+| ![Guitarra](/assets/images/deseos/fender-meteora.jpg)                          | **Fender**   | Meteora                            |
+| ![Guitarra](/assets/images/deseos/fender-telecaster-thinline.jpg)              | **Fender**   | Telecaster Thinline American Elite |
+| ![Guitarra](/assets/images/deseos/nigrelli-Alchimia-Relic-PLC-Black-Satin.jpg) | **Nigrelli** | Alchimia Relic PLC Black Satin 401 |
+| ![Guitarra](/assets/images/deseos/sterling-st-vincent.jpg)                     | **Sterling** | St. Vincent                        |
 
 <a href="#listado" class="back-to-top">Volver arriba ↑</a>
 

@@ -5,10 +5,15 @@ categories:
 tags:
   - Vientos
   - Tin Whistle
+  - Low Whistle
   - Clarinete
   - Flauta Dulce
   - jSax
   - Armónica
+  - Venova
+  - Flauta Nativa
+  - Melódica
+  - Flauta Traversa
 ---
 
 Esta es mi colección de instrumentos de viento
@@ -30,7 +35,7 @@ Actualmente cuento con **16** instrumentos de viento.
 | ![Melódica](/assets/images/coleccion-vientos/yamaha-melodica.jpg)             | **Yamaha**    | Melódica        | PD32d              |
 | ![Tin Whistle](/assets/images/coleccion-vientos/tin-whistle.jpg)              | **Argayl**    | Tin Whistle     | D                  |
 | ![Tin Whistle](/assets/images/coleccion-vientos/low-whistle.jpg)              | **Argayl**    | Tin Whistle     | Low D              |
-| ![Venova](/assets/images/coleccion-vientos/jsax.png)                          | **Nuvo**      | Saxo Plástico   | jSax               |
+| ![jSax](/assets/images/coleccion-vientos/jsax.jpg)                            | **Nuvo**      | Saxo Plástico   | jSax               |
 | ![Venova](/assets/images/coleccion-vientos/venova-soprano.png)                | **Yamaha**    | Venova          | Soprano            |
 | ![Venova](/assets/images/coleccion-vientos/venova-alto.png)                   | **Yamaha**    | Venova          | Venova Alto        |
 
