@@ -3,6 +3,9 @@ permalink: /instrumentos/
 title: "Mi colección de instrumentos"
 ---
 
+➡ [Mi lista de deseos](/lista-deseos/)  
+➡ [Mi colección de púas](/coleccion-de-puas/)
+
 Todo empezó con una guitarra acústica, la cual llevó a una eléctrica y a otra y... a esta acumulación de cosas que hacen ruiditos.  
 Mi colección se compone de instrumentos de serie y de instrumentos hechos a pedido.  
 Para entrar en la colección, un instrumento tiene que cumplir con 2 puntos importantes:

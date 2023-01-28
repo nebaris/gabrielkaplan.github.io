@@ -1,12 +1,6 @@
 ---
-title: "Colección de púas"
-categories:
-  - Colecciones
-tags:
-  - Guitarra
-  - Bajo
-  - Púa
-  - Cuerdas
+permalink: /coleccion-de-puas/
+title: "Coleccion de Púas"
 ---
 
 Esta es mi colección de púas
