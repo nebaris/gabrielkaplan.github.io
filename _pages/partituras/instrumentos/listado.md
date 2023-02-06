@@ -8,4 +8,4 @@ Las partituras están codificadas para tratar de evitar las duplicaciones.
 Si querés saber de dónde salen, podés...  
 [➡ Ver la colección de métodos](/metodo-coleccion/)
 
-[➡ Guitarra](/partituras-guitarra-electrica/)
+[➡ Guitarra](/partituras-guitarra/)
