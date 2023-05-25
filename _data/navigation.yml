@@ -1,13 +1,13 @@
 main:
   - title: "Instrumentos"
     url: /instrumentos/
-  - title: "Partituras"
-    url: /partitura-mania/
+  - title: "Aprendizaje"
+    url: /aprendizaje/
+  #  - title: "Artículos"
+  #    url: /posts/
+  # - title: "Categorias"
+  #   url: /categories/
+  # - title: "Etiquetas"
+  #   url: /tags/
   - title: "Acerca de"
     url: /about/
-#  - title: "Artículos"
-#    url: /posts/
-#  - title: "Categorias"
-#    url: /categories/
-#  - title: "Etiquetas"
-#    url: /tags/

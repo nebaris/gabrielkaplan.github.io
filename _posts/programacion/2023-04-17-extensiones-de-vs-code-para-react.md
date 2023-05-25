@@ -1,9 +1,10 @@
 ---
-title: "Guitarra Eléctrica - Partitura AAA-001"
+title: "Extensiones de VS Code para React"
 categories:
-  - Partituras
+  - 👨‍💻 Programación
 tags:
-  - Guitarra eléctrica
+  - React
+  - VSCode
 ---
 
 Se agregó la interpretación de la partitura [AAA-001](/partitura-aaa-001/)
